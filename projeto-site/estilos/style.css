@@ -1,15 +1,16 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
     font-size: 16px;
 }
 
 body {
-    background-color: rgb(202, 147, 229);
+    background-color:black;
 
 }
 
 main {
-    background-color: white;
+    background-color: black;
     width: 500px;
     margin: auto;
     padding: 10px;
